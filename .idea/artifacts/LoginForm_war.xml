@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="LoginForm.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoginForm_war</output-path>
+    <root id="root">
+      <element id="archive" name="LoginForm.war" />
+    </root>
+  </artifact>
+</component>
